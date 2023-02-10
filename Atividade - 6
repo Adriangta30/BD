@@ -1,0 +1,3 @@
+O Primeiro seria garantir a autenticação do banco de dados para garantir o acesso controlado a somente usuários liberados pela administração do projeto inteiro.
+O Segundo processo seria controlar as informações que as pessoas que estão vendo no seu banco de dados. Seguidamente de garantir a segurança do banco, encriptando dados
+e etc.
