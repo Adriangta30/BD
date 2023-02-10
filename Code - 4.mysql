@@ -1,3 +1,3 @@
-CREATE TABLE teste (NomeJ VARCHAR(10), Plataforma(3));
-INSERT INTO teste VALUES ('Metal Gear Revengeance','PC');
-DELETE FROM teste WHERE NomeJ = 1;
+CREATE TABLE teste (J VARCHAR(10), Plat(3));
+INSERT INTO teste VALUES ('Metal Gear Revengeance','PS3');
+DELETE FROM teste WHERE J = 1;
