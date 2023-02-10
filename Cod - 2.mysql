@@ -1,0 +1,11 @@
+SELECT * FROM alunos;
+ADD COLUMN ddn VARCHAR(10) AFTER 'tel';
+
+SELECT * FROM alunos;
+CHANGE COLUMN 'tel' 'contato' VARCHAR(11) DEFAULT;
+
+SELECT * FROM livros;
+ADD COLUMN 'ISBN' INT(13) AFTER autor;
+
+SELECT * FROM livros;
+DROP COLUMN 'ISBN';
