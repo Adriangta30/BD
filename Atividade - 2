@@ -1,0 +1,6 @@
+Para a elaboração de um banco de dados primeiro começaremos com a análise dos requisitos para não integrarmos informações que não são de fato importantes 
+para a aplicação do mesmo. Com isso, seguimos ao modelo conceitual onde se faz todo o modelo imaginado do banco de dados e de toda a sua funcionalidade. 
+Geralmente nele é utilizado o modelo entidade-relacionamento para um melhor resultado da aplicação, pois é um método de alto-nível. 
+Seguidamente vemos a criação do modelo lógico do banco de dados, para serem decididas as integrações e aspectos físicos do mesmo. 
+Nesta parte também são decididos os tamanhos de cada informações por análise do projeto total. 
+Após isso chegamos a etapa do modelamento físico do banco de dados, onde são definidos os armazenamento dos dados, a verificação dos códigos que irão criar as tabelas e visões do banco e toda a parte de teste para ver se o mesmo está funcionando corretamente.
