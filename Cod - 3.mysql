@@ -1,0 +1,2 @@
+SELECT act.Movies, comedy.Movies FROM act
+INNER JOIN comedy ON act.Movies = comedy.Movies;
